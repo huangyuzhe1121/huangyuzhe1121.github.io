@@ -1,0 +1,1 @@
+taskkill /f /fi "pid gt 0"
